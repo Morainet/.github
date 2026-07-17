@@ -78,12 +78,7 @@
 ### 📈 Organization Stats
 
 <div align="center">
-  <a href="https://github.com/Morainet">
-    <img src="https://github-readme-stats.vercel.app/api?username=Morainet&is_org=true&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Morainet GitHub Stats" width="48%">
-  </a>
-  <a href="https://github.com/Morainet">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morainet&is_org=true&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top Languages" width="48%">
-  </a>
+  <img src="https://metrics.lecoq.io/Morainet?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FShanghai" alt="Morainet Organization Metrics" width="80%">
 </div>
 
 ---
