@@ -6,17 +6,17 @@
   <p><strong>Enduring traces left by innovation, built layer by layer.</strong></p>
 
   <!-- 动态徽章 -->
-  <p>
-    <a href="https://github.com/Morainet">
-      <img src="https://img.shields.io/github/followers/Morainet?style=for-the-badge&logo=github&color=0D1117&labelColor=161B22" alt="Followers">
-    </a>
-    <a href="https://github.com/Morainet">
-      <img src="https://img.shields.io/github/stars/Morainet?style=for-the-badge&logo=github&color=0D1117&labelColor=161B22" alt="Stars">
-    </a>
-    <a href="mailto:morainet.dev@gmail.com">
-      <img src="https://img.shields.io/badge/Email-morainet.dev%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117&labelColor=161B22" alt="Email">
-    </a>
-  </p>
+<p align="center">
+  <a href="https://github.com/Morainet">
+    <img src="https://img.shields.io/github/followers/Morainet?style=for-the-badge&logo=github&logoColor=white&color=38bdf8&labelColor=0f172a" alt="Followers">
+  </a>
+  <a href="https://github.com/Morainet">
+    <img src="https://img.shields.io/github/stars/Morainet?style=for-the-badge&logo=apachespark&logoColor=gold&color=10b981&labelColor=0f172a" alt="Stars">
+  </a>
+  <a href="mailto:morainet.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-morainet.dev%40gmail.com-f43f5e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email">
+  </a>
+</p>
 
   <p>
     <i>Inspired by the geological term <b>moraine</b> — the enduring traces left by glaciers.</i>
