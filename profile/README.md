@@ -68,9 +68,9 @@
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :---: | :---: |
-| **[livekit](https://github.com/Morainet/livekit)** | _TBD_ | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | 🛠️ Active |
+| **[livekit](https://github.com/Morainet/livekit)** | High-performance Android SDK for Live Activities / Live Updates — native Android 16 `ProgressStyle` with graceful fallback. | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | 🛠️ Active |
 | **[SpiritDex](https://github.com/Morainet/SpiritDex)** | Lightweight desktop/mobile companion & interactive suite. | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) | 🛠️ Active |
-| **[morainet](https://github.com/Morainet/morainet)** | _TBD_ · [🌐 morainet.vercel.app](https://morainet.vercel.app) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 🛠️ Active |
+| **[morainet](https://github.com/Morainet/morainet)** | The marketing & brand site for the Morainet collective, built with Next.js + Tailwind. · [🌐 morainet.vercel.app](https://morainet.vercel.app) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 🛠️ Active |
 | **[music-gen-platform](https://github.com/Morainet/music-gen-platform)** | Open-source platform for AI music generation & workflow. · [🌐 music-gen-platform.vercel.app](https://music-gen-platform.vercel.app) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🛠️ Active |
 | **[morainet-ai](https://github.com/Morainet/morainet-ai)** | Core AI tools & framework integrations for the Morainet ecosystem. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🧪 W.I.P |
 | **[widget-kit](https://github.com/Morainet/widget-kit)** | Ultra-smooth UI components & mobile widget toolkit. | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | 🚀 Alpha |
